@@ -2,6 +2,6 @@
 
 
 
-- 🔭 I’m currently working ML Projects
+- 🔭 I’m currently working on ML Projects
 - 🌱 I’m currently learning Data Science
 - 💬 Ask me about DataScience,Ml,Dl
